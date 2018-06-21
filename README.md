@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to maven
 
-You can use the [editor on GitHub](https://github.com/wx19941125/maven/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+maven出现的目的是为了统一管理Jar，统一开发规范。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+maven->pom.xml->本地仓库|私服仓库|中央仓库(http://maven.aliyun.com/nexus/content/groups/public)
+
+* 依赖管理，对Jar包管理；
+
+* 项目构建，项目编码完成后，对项目进行编译、测试、打包、部署等一系列操作都是通过命令来实现的；
+
 
 ### Markdown
 
