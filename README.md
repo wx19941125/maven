@@ -9,12 +9,12 @@ maven->pom.xml->本地仓库|私服仓库|中央仓库(http://maven.aliyun.com/n
 * 项目构建，项目编码完成后，对项目进行编译、测试、打包、部署等一系列操作都是通过命令来实现的；
 
 
-### Markdown
+### maven基础知识
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+maven基础知识包括maven安装、maven配置、maven运行；
 
-```markdown
-Syntax highlighted code block
+## maven安装教程
+直接解压（解压路径不要有中文、空格）；
 
 # Header 1
 ## Header 2
